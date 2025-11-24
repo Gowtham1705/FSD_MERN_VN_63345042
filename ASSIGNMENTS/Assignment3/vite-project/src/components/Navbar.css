@@ -1,0 +1,22 @@
+.nav {
+  background: black;
+  color: rgb(189, 148, 216);
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  font-size: 20px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-style:initial;
+  align-items: center;
+}
+
+.nav a {
+  margin-left: 20px;
+  color:rgb(189, 148, 216);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav a:hover {
+  color: rgb(189, 148, 216);
+}
